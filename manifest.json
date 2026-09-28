@@ -1,0 +1,205 @@
+{
+  "schema": 1,
+  "troia": [
+    {
+      "version": "01.03",
+      "name": "setup_troia 01.03.exe",
+      "file": "Setup/setup_troia 01.03.exe",
+      "size": 52874466,
+      "sha256": "cc3ab8effaf276353ea4dadfaf2584d2041692a0e9b8d9198bdffdefe6f85622",
+      "url": "https://github.com/GlawckHSilva/troia-downloads/releases/download/troia-01.03/setup_troia.01.03.exe"
+    },
+    {
+      "version": "2.0.5.6",
+      "name": "Setup_Troia_2.0.5.6.exe",
+      "file": "Setup/Setup_Troia_2.0.5.6.exe",
+      "size": 80204900,
+      "sha256": "454ec74c08d17ea92b45936cba888bcc4deec9fc384e00b00e95a333782c1bca",
+      "url": "https://github.com/GlawckHSilva/troia-downloads/releases/download/troia-2.0.5.6/Setup_Troia_2.0.5.6.exe"
+    },
+    {
+      "version": "2.0.5.40",
+      "name": "Setup_Troia_2.0.5.40.exe",
+      "file": "Setup/Setup_Troia_2.0.5.40.exe",
+      "size": 80484877,
+      "sha256": "77d93bffe69434e39d2d7913da7b0b9c8f9b5f0c949f518998cf29161585a4bf",
+      "url": "https://github.com/GlawckHSilva/troia-downloads/releases/download/troia-2.0.5.40/Setup_Troia_2.0.5.40.exe"
+    },
+    {
+      "version": "2.0.5.88",
+      "name": "Setup_Troia_2.0.5.88.exe",
+      "file": "Setup/Setup_Troia_2.0.5.88.exe",
+      "size": 75037360,
+      "sha256": "cd121a6d7195e426aeabaaa2e0faa0a8c782f8b943ba9266c1b01ca5f3fb8691",
+      "url": "https://github.com/GlawckHSilva/troia-downloads/releases/download/troia-2.0.5.88/Setup_Troia_2.0.5.88.exe"
+    },
+    {
+      "version": "2.0.6.68",
+      "name": "Setup_Troia_2.0.6.68.exe",
+      "file": "Setup/Setup_Troia_2.0.6.68.exe",
+      "size": 77047262,
+      "sha256": "3fd2aa0b962aaf7d1b45e0e19be7ed7a3f0f4f436d3828c1d76309a2140184a2",
+      "url": "https://github.com/GlawckHSilva/troia-downloads/releases/download/troia-2.0.6.68/Setup_Troia_2.0.6.68.exe"
+    },
+    {
+      "version": "2.0.7.2",
+      "name": "Setup_Troia_2.0.7.2.exe",
+      "file": "Setup/Setup_Troia_2.0.7.2.exe",
+      "size": 77169803,
+      "sha256": "fbc1b91d1a72add8ac16056520ed086ec53ad454ae37f360782d8babaad718c7",
+      "url": "https://github.com/GlawckHSilva/troia-downloads/releases/download/troia-2.0.7.2/Setup_Troia_2.0.7.2.exe"
+    },
+    {
+      "version": "2.0.7.61",
+      "name": "Setup_Troia_2.0.7.61.exe",
+      "file": "Setup/Setup_Troia_2.0.7.61.exe",
+      "size": 86661534,
+      "sha256": "29cd59a52d2b9e40bb439edd811ca690533d96ef32250407e7a5f97dcb02ce34",
+      "url": "https://github.com/GlawckHSilva/troia-downloads/releases/download/troia-2.0.7.61/Setup_Troia_2.0.7.61.exe"
+    },
+    {
+      "version": "2.0.7.74",
+      "name": "Setup_Troia_2.0.7.74.exe",
+      "file": "Setup/Setup_Troia_2.0.7.74.exe",
+      "size": 88713463,
+      "sha256": "388712d933dd1b20e44faaf6e4353a267628f4d853b1c0d5009d210b8560bb26",
+      "url": "https://github.com/GlawckHSilva/troia-downloads/releases/download/troia-2.0.7.74/Setup_Troia_2.0.7.74.exe"
+    },
+    {
+      "version": "2.0.7.75",
+      "name": "Setup_Troia_2.0.7.75.exe",
+      "file": "Setup/Setup_Troia_2.0.7.75.exe",
+      "size": 88707659,
+      "sha256": "1c1b2ea9f0dea72ff4561bca6ce02c9c67e292dea6ed650ccbfe984cfdd0744c",
+      "url": "https://github.com/GlawckHSilva/troia-downloads/releases/download/troia-2.0.7.75/Setup_Troia_2.0.7.75.exe"
+    },
+    {
+      "version": "2.0.7.76",
+      "name": "Setup_Troia_2.0.7.76.exe",
+      "file": "Setup/Setup_Troia_2.0.7.76.exe",
+      "size": 88710298,
+      "sha256": "5073b3d1ed907207e8a893cb31780bd7c2fe2c697a11bf109eba116f2434bb83",
+      "url": "https://github.com/GlawckHSilva/troia-downloads/releases/download/troia-2.0.7.76/Setup_Troia_2.0.7.76.exe"
+    },
+    {
+      "version": "2.0.7.77",
+      "name": "Setup_Troia_2.0.7.77.exe",
+      "file": "Setup/Setup_Troia_2.0.7.77.exe",
+      "size": 88731104,
+      "sha256": "64830f0d8bee1367015153603de23ca86529b4098321991d65667d468ca8bf6b",
+      "url": "https://github.com/GlawckHSilva/troia-downloads/releases/download/troia-2.0.7.77/Setup_Troia_2.0.7.77.exe"
+    },
+    {
+      "version": "2.0.7.78",
+      "name": "Setup_Troia_2.0.7.78.exe",
+      "file": "Setup/Setup_Troia_2.0.7.78.exe",
+      "size": 88732533,
+      "sha256": "1c105c7e6f8b6c4fb4b0284ee5a97a87735da0f7cc7e4ff789094fa3b9736ec6",
+      "url": "https://github.com/GlawckHSilva/troia-downloads/releases/download/troia-2.0.7.78/Setup_Troia_2.0.7.78.exe"
+    },
+    {
+      "version": "2.0.7.79",
+      "name": "Setup_Troia_2.0.7.79.exe",
+      "file": "Setup/Setup_Troia_2.0.7.79.exe",
+      "size": 88750797,
+      "sha256": "14cfabce724ab03ead5690c0e6abafb3f7948182efc581796d8acbfd2164315c",
+      "url": "https://github.com/GlawckHSilva/troia-downloads/releases/download/troia-2.0.7.79/Setup_Troia_2.0.7.79.exe"
+    },
+    {
+      "version": "2.0.7.82",
+      "name": "Setup_Troia_2.0.7.82.exe",
+      "file": "Setup/Setup_Troia_2.0.7.82.exe",
+      "size": 88769246,
+      "sha256": "032205a5d07b8b1c6ff65cfff26515c047653bd8544141f52c06de23f7921182",
+      "url": "https://github.com/GlawckHSilva/troia-downloads/releases/download/troia-2.0.7.82/Setup_Troia_2.0.7.82.exe"
+    },
+    {
+      "version": "2.0.7.84",
+      "name": "Setup_Troia_2.0.7.84.exe",
+      "file": "Setup/Setup_Troia_2.0.7.84.exe",
+      "size": 90457417,
+      "sha256": "b1505e3137341e3735461c74f8df8edf0517d62055d26aa527160233a483b876",
+      "url": "https://github.com/GlawckHSilva/troia-downloads/releases/download/troia-2.0.7.84/Setup_Troia_2.0.7.84.exe"
+    },
+    {
+      "version": "2.0.7.85",
+      "name": "Setup_Troia_2.0.7.85.exe",
+      "file": "Setup/Setup_Troia_2.0.7.85.exe",
+      "size": 90461812,
+      "sha256": "66171ecef0b22290eeb79e8d168d70e45da87c172be30305fc67f0b299e22934",
+      "url": "https://github.com/GlawckHSilva/troia-downloads/releases/download/troia-2.0.7.85/Setup_Troia_2.0.7.85.exe"
+    },
+    {
+      "version": "2.0.7.86",
+      "name": "Setup_Troia_2.0.7.86.exe",
+      "file": "Setup/Setup_Troia_2.0.7.86.exe",
+      "size": 90467475,
+      "sha256": "964b34ae332d45f89405230723795b806739a2725a8ae196b461ad406bc93d52",
+      "url": "https://github.com/GlawckHSilva/troia-downloads/releases/download/troia-2.0.7.86/Setup_Troia_2.0.7.86.exe"
+    },
+    {
+      "version": "2.0.7.98",
+      "name": "Setup_Troia_2.0.7.98.exe",
+      "file": "Setup/Setup_Troia_2.0.7.98.exe",
+      "size": 89990461,
+      "sha256": "034c8b7339ba9206f43040ff9e08b9372e219a48d4c030e1be5b042cc5400ee1",
+      "url": "https://github.com/GlawckHSilva/troia-downloads/releases/download/troia-2.0.7.98/Setup_Troia_2.0.7.98.exe"
+    }
+  ],
+  "components": {
+    "cbsetup": {
+      "name": "cbSetup",
+      "silent_args": [],
+      "file": "Programas/cbSetup.9.5.1.212.exe",
+      "size": 10314752,
+      "sha256": "22c653d798303800977b319b8145f4c4048f4ea9401535c44d70b91d6372a968",
+      "url": "https://github.com/GlawckHSilva/troia-downloads/releases/download/componentes-2026.09.28/cbSetup.9.5.1.212.exe"
+    },
+    "firebird": {
+      "name": "Firebird",
+      "silent_args": [],
+      "file": "Programas/Firebird-2.5.9.27139_0_x64.exe",
+      "size": 10014146,
+      "sha256": "619715d4e2683504647f778f58669c9f52627921a532da716b8aebf9ede80966",
+      "url": "https://github.com/GlawckHSilva/troia-downloads/releases/download/componentes-2026.09.28/Firebird-2.5.9.27139_0_x64.exe"
+    },
+    "nuvem_contabil": {
+      "name": "Nuvem Contábil",
+      "silent_args": [],
+      "file": "Programas/nuvem_contabil_1_0_8.exe",
+      "size": 10379703,
+      "sha256": "5a266570b0dbc1695ba17b768900ce31831a46b7b9013ef0e701a73073e63218",
+      "url": "https://github.com/GlawckHSilva/troia-downloads/releases/download/componentes-2026.09.28/nuvem_contabil_1_0_8.exe"
+    }
+  },
+  "databases": [
+    {
+      "name": "AUTOCOM.FDB",
+      "file": "Banco/AUTOCOM.FDB",
+      "size": 14413824,
+      "sha256": "f3faa8f12fb92bb0cbb17784808b31f6a73cec1fdd7725d5e92aa954ead2b10a",
+      "url": "https://github.com/GlawckHSilva/troia-downloads/releases/download/componentes-2026.09.28/AUTOCOM.FDB"
+    }
+  ],
+  "dlls": {
+    "capicom.dll": {
+      "file": "Capicom7/capicom.dll",
+      "size": 511328,
+      "sha256": "61450bd6bc6590236b1df56e1594b12ae174496357a49b5963c41d0d1465d66f",
+      "url": "https://github.com/GlawckHSilva/troia-downloads/releases/download/componentes-2026.09.28/capicom.dll"
+    },
+    "msxml5.dll": {
+      "file": "Capicom7/msxml5.dll",
+      "size": 1425912,
+      "sha256": "087be496d389bb3587b751650faf64a05758d731b310537e85bc45cc4765d2d2",
+      "url": "https://github.com/GlawckHSilva/troia-downloads/releases/download/componentes-2026.09.28/msxml5.dll"
+    },
+    "msxml5r.dll": {
+      "file": "Capicom7/msxml5r.dll",
+      "size": 91912,
+      "sha256": "3f79f5a6ca82099e31e13e080f61aaa8be7023eaf810c6cf822f2ea4642a14f9",
+      "url": "https://github.com/GlawckHSilva/troia-downloads/releases/download/componentes-2026.09.28/msxml5r.dll"
+    }
+  }
+}
+
